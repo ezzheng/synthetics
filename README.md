@@ -1,2 +1,2 @@
 # Synthetics
-Storage for SnLg code. Last updated 9/19/2025. Does not reflect most recent changes.
+Storage for SnLg analysis code. Last updated 10/7/2025.
