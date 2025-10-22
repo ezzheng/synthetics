@@ -1,3 +1,3 @@
 # Synthetics
 Storage for SnLg analysis code. Last updated 10/22/2025.
-Read documentation at https://bit.ly/ezzhengSnLg. 
+Read documentation at bit.ly/SyntheticsSnLg.
